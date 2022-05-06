@@ -1,7 +1,7 @@
 # Run-Buddy-M1
 Run Buddy Assignment 1
 
-#Run Buddy
+#Run Buddy Inc.
 
 ## Purpose
 
