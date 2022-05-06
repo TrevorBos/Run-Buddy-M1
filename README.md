@@ -1,11 +1,7 @@
 # Run-Buddy-M1
 Run Buddy Assignment 1
 
-<<<<<<< HEAD
-#Run Buddy Inc.
-=======
 # Run Buddy, Inc
->>>>>>> c99384a280abc92c8e43a9c7ed4ace921ac2c01f
 
 ## Purpose
 A website that offers fitness training services. 
