@@ -473,7 +473,7 @@ section {
 
 /* Media Query for smaller desktop screens and smaller */
 
-@media screen and (max-width:980px){
+@media screen and (max-width:980px) {
 
     header {
         padding-bottom: 0;
