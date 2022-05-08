@@ -19,21 +19,21 @@ body {
 /*styling for the header section <header>*/
 header {
     padding: 20px 35px;
-    background-color: var(--tertiary-color);
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
+    background-image: url('../images/hero-bg.jpg');
+    background-position: 80%;
+    background-attachment:fixed;
+    background-size: cover;
+    /* 2.2 - added flex and removed inline / float properties from h1 and nav */
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
-    background-image: url(../images/hero-bg.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: 80%;
+    position:sticky;
+    position: -webkit-sticky;
+    top: 0;
     z-index: 9999;
-    
-}
-
+  }
+  
 header h1 {
     font-weight: bold;
     margin: 0;
@@ -49,6 +49,9 @@ header a {
 
 header nav {
     margin: 7px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 header nav ul {
