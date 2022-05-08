@@ -11,7 +11,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://trevorbos.github.io/Run-Buddy-M1/
 
 ## Contribution
 Made with ❤️ by Trevor Bos
